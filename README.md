@@ -1,19 +1,19 @@
-# 🤖 Jarvis Virtual Assistant
+#  Jarvis Virtual Assistant
 
 A Python-based AI voice assistant inspired by Jarvis. It uses speech recognition, text-to-speech, and local LLMs to provide a natural voice-controlled experience and automate everyday tasks.
 
-## ✨ Features
+##  Features
 
-* 🎤 Voice command recognition
-* 🔊 Natural text-to-speech using Edge TTS
-* 🧠 Local AI responses powered by Ollama
-* 🌐 Open websites in your browser
-* 🌦️ Get real-time weather information
-* 💬 Interactive voice conversations
-* ⚡ Fast and lightweight Python implementation
-* 🔄 Easy to extend with new commands and features
+*  Voice command recognition
+*  Natural text-to-speech using Edge TTS
+*  Local AI responses powered by Ollama
+*  Open websites in your browser
+*  Get real-time weather information
+*  Interactive voice conversations
+*  Fast and lightweight Python implementation
+*  Easy to extend with new commands and features
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * SpeechRecognition
@@ -23,7 +23,7 @@ A Python-based AI voice assistant inspired by Jarvis. It uses speech recognition
 * Requests
 * Asyncio
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Jarvis-Virtual-Assistant/
@@ -33,7 +33,7 @@ Jarvis-Virtual-Assistant/
 └── .gitignore
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -94,11 +94,11 @@ Make sure the Ollama server is running before starting Jarvis.
 python main.py
 ```
 
-## 📌 Note
+##  Note
 
 Every time Jarvis speaks, an audio (`.mp3`) file is generated automatically for text-to-speech playback. The file is temporary and is removed after playback.
 
-## 📚 What I Learned
+##  What I Learned
 
 Building this project helped me learn:
 
@@ -110,7 +110,7 @@ Building this project helped me learn:
 * Audio playback using Pygame
 * Python project structure and dependency management
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * GUI interface
 * Wake word detection
@@ -121,15 +121,15 @@ Building this project helped me learn:
 * AI memory and conversation history
 * Plugin system for custom commands
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
 If you'd like to improve this project by adding new features or fixing bugs, feel free to fork the repository, make your changes, and submit a pull request.
 
-## ⭐ Support
+##  Support
 
-If you found this project useful, consider giving it a **⭐ Star** on GitHub. It helps others discover the project and motivates further development.
+If you found this project useful, consider giving it a ** Star** on GitHub. It helps others discover the project and motivates further development.
 
 ## 📌 Note
 
